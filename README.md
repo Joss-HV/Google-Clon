@@ -34,3 +34,4 @@ La página clon tiene las siguientes secciones:
 ***
 ### Link del Demo
 https://joss-hv.github.io/Google-Clon/ 
+![Interfaz clon google](https://user-images.githubusercontent.com/131929266/234747181-07c0196d-2512-46f8-ace2-9494901f91ed.png)
