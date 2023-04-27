@@ -4,13 +4,13 @@
 ### índice
 * [Introducción](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#introducci%C3%B3n)
 
-* [Justificación](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#justificaci%C3%B3n)
+* [Justificación](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#justificaci%C3%B3n)
 
-* [Objetivos del proyecto](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#objetivo-del-proyecto)
+* [Objetivos del proyecto](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#objetivo-del-proyecto)
 
-* [¿Cómo se elaboró?](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#c%C3%B3mo-se-elabor%C3%B3)
+* [¿Cómo se elaboró?](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#c%C3%B3mo-se-elabor%C3%B3)
 
-* [Link al Demo](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#link-del-demo)
+* [Link al Demo](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#link-del-demo)
 
 ***
 ### Introducción
