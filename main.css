@@ -1,0 +1,177 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+header nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+header nav .nav-right-section{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    height: auto;
+}
+header nav .nav-right-section .menu{
+    background-image: url(https://img.icons8.com/ios-glyphs/256/circled-menu.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 2pc;
+    height: 2pc;
+}
+nav.nav-right-section img{
+    border-radius: 60px;
+    margin-left: 20px;
+    width: 35px;
+    height: 35px;
+}  
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100% - 120px); /* 100% height - 2x60px header and footer */
+    background-color: #ffffff;
+}
+
+main .main-logo{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .main-logo img{
+    height: 80%;
+    width: 90%;
+}
+
+main .main-input{
+    width:500px;
+    height: 60px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .main-input-container{
+    width: 500px;
+    height: 50px;
+    border: 1px solid rgb(233, 226, 226);
+    background-color: white;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main .main-input input{
+    border: none;
+    width: 420px;
+    height: 10px;
+    outline: none;
+    
+}
+main .main-input-container:hover{
+    box-shadow: 0px 1px 6px 1px rgb(98, 134, 134);
+}
+main .main-input .search-icon{
+    background-image: url( https://img.icons8.com/android/24/000000/search.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 14px;
+    height: 14px;
+    padding-left: 6%;
+}
+main .main-input .micro-icon{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/726px-Google_mic.svg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 14px;
+    height: 14px;
+}
+main .main-input .cam-icon{
+    background-image: url(https://static.wikia.nocookie.net/logopedia/images/2/2b/Google_Lens_2021.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 14px;
+    height: 14px;
+    padding-right: 7%;
+}
+
+main .main-buttons{
+    margin: 5px;
+    display: flex;
+}
+main .main-buttons div{
+    display: inline-block;
+}
+main .main-buttons button{
+    border: none;
+    height: 35px;
+    width: 150px;
+    margin-top: 25px;
+    margin-right: 20px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    border-radius: 4px;
+    background-color: rgb(192, 188, 188);
+}
+main .main-buttons button:hover{
+    box-shadow: 0 ipx 3px gray(0,0,0,.1);
+    border: 0 1px solid white;
+    color: black;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #dfdfdf;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    font-size: 13px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    border-top: 1px solid #e4e4e4;
+    bottom: 0;
+}
+footer ul{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0px;
+}
+footer ul li a{
+    color: grey;
+    margin: 10px;
+}
+footer .footer-letf{
+    justify-self: left;
+}
+footer .footer-right{
+    justify-self: right;
+
+}
