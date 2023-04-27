@@ -2,7 +2,7 @@
 #### Creado con GTML5 y CSS3 en el bootcamp de Tecnolochicas
 
 ### índice
-* [Introducción](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#introducci%C3%B3n)
+* [Introducción](https://github.com/Joss-HV/Google-Clon/blob/main/README.md#introducci%C3%B3n)
 
 * [Justificación](https://github.com/Joss-HV/Google-Clon/edit/main/README.md#justificaci%C3%B3n)
 
